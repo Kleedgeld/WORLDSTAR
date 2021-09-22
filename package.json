@@ -1,0 +1,17 @@
+{
+  "name": "worldstar_bot",
+  "version": "1.0.0",
+  "description": "dit is een bot voor de guild WORLDSTAR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "star": "nodemon"
+  },
+  "keywords": [
+    "bot",
+    "guild",
+    "worldstar"
+  ],
+  "author": "nattig",
+  "license": "ISC"
+}
