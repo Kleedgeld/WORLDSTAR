@@ -15,14 +15,3 @@
   "author": "nattig",
   "license": "ISC"
 }
-
-{
-  "name": "worldstar_bot",
-  "version": "1.0.0",
-  "private": "true",
-}
-
-"repository": {
-  "type": "git",
-  "url" : "https://v8.googlecode.com/svn/trunk/"
-}
